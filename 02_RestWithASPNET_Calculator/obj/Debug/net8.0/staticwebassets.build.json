@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yiZyF5e3Wg4UHyxidj24PGGa6QAAPP4hNvs80umGUn4=",
+  "Source": "02_RestWithASPNET_Calculator",
+  "BasePath": "_content/02_RestWithASPNET_Calculator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
