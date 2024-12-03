@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02_RestWithASPNET_Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59ade6eeaef47697a0abdc896cda21a78808313f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72aeb084ef724f5e630d99d4dd2f35e6fea18fe8")]
 [assembly: System.Reflection.AssemblyProductAttribute("02_RestWithASPNET_Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02_RestWithASPNET_Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

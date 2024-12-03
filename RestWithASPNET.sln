@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_RestWithASPNET_Calculator", "02_RestWithASPNET_Calculator\02_RestWithASPNET_Calculator.csproj", "{E0D6B4FF-9F88-46D4-8F09-00C8347BD1D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_RestWithASPNET_Person", "03_RestWithASPNET_Person\03_RestWithASPNET_Person.csproj", "{E6410D93-DACC-49F1-B130-6AF8DA8EA317}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E0D6B4FF-9F88-46D4-8F09-00C8347BD1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E0D6B4FF-9F88-46D4-8F09-00C8347BD1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E0D6B4FF-9F88-46D4-8F09-00C8347BD1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E0D6B4FF-9F88-46D4-8F09-00C8347BD1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6410D93-DACC-49F1-B130-6AF8DA8EA317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6410D93-DACC-49F1-B130-6AF8DA8EA317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6410D93-DACC-49F1-B130-6AF8DA8EA317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6410D93-DACC-49F1-B130-6AF8DA8EA317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
