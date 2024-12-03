@@ -13,6 +13,7 @@ namespace _02_RestWithASPNET_Calculator.Controllers
             _logger = logger;
         }
 
+
         [HttpGet("sum/{firstNumber}/{secondNumber}")]
         public IActionResult Sum(string firstNumber, string secondNumber)
         {
@@ -23,6 +24,7 @@ namespace _02_RestWithASPNET_Calculator.Controllers
             }
             return BadRequest("Invalid Input");
         }
+
 
         [HttpGet("subtraction/{firstNumber}/{secondNumber}")]
         public IActionResult Subtraction(string firstNumber, string secondNumber)
@@ -35,6 +37,7 @@ namespace _02_RestWithASPNET_Calculator.Controllers
             return BadRequest("Invalid Input");
         }
 
+
         [HttpGet("multiplication/{firstNumber}/{secondNumber}")]
         public IActionResult Multiplication(string firstNumber, string secondNumber)
         {
@@ -45,6 +48,7 @@ namespace _02_RestWithASPNET_Calculator.Controllers
             }
             return BadRequest("Invalid Input");
         }
+
 
         [HttpGet("division/{firstNumber}/{secondNumber}")]
         public IActionResult Division(string firstNumber, string secondNumber)
@@ -57,6 +61,7 @@ namespace _02_RestWithASPNET_Calculator.Controllers
             return BadRequest("Invalid Input");
         }
 
+
         [HttpGet("mean/{firstNumber}/{secondNumber}")]
         public IActionResult Mean(string firstNumber, string secondNumber)
         {
@@ -68,6 +73,7 @@ namespace _02_RestWithASPNET_Calculator.Controllers
             return BadRequest("Invalid Input");
         }
 
+
         [HttpGet("square-root/{firstNumber}")]
         public IActionResult SquareRoot(string firstNumber)
         {
@@ -78,6 +84,7 @@ namespace _02_RestWithASPNET_Calculator.Controllers
             }
             return BadRequest("Invalid Input");
         }
+
         private bool IsNumeric(string strNumber)
         {
             double number;

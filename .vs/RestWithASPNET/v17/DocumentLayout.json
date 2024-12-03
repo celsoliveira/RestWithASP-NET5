@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0D6B4FF-9F88-46D4-8F09-00C8347BD1D4}|02_RestWithASPNET_Calculator\\02_RestWithASPNET_Calculator.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\02_restwithaspnet_calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D6B4FF-9F88-46D4-8F09-00C8347BD1D4}|02_RestWithASPNET_Calculator\\02_RestWithASPNET_Calculator.csproj|solutionrelative:02_restwithaspnet_calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0D6B4FF-9F88-46D4-8F09-00C8347BD1D4}|02_RestWithASPNET_Calculator\\02_RestWithASPNET_Calculator.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\02_restwithaspnet_calculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E0D6B4FF-9F88-46D4-8F09-00C8347BD1D4}|02_RestWithASPNET_Calculator\\02_RestWithASPNET_Calculator.csproj|solutionrelative:02_restwithaspnet_calculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\02_RestWithASPNET_Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "02_RestWithASPNET_Calculator\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\02_RestWithASPNET_Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "02_RestWithASPNET_Calculator\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:20:30.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\02_RestWithASPNET_Calculator\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "02_RestWithASPNET_Calculator\\Properties\\launchSettings.json",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "02_RestWithASPNET_Calculator.http",
               "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\02_RestWithASPNET_Calculator\\02_RestWithASPNET_Calculator.http",
               "RelativeDocumentMoniker": "02_RestWithASPNET_Calculator\\02_RestWithASPNET_Calculator.http",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "02_RestWithASPNET_Calculator\\02_RestWithASPNET_Calculator.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-28T17:01:55.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T17:01:55.729Z"
             }
           ]
         }
