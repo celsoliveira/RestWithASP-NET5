@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +29,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|c:\\workspace\\udemy\\rest api restfull com asp.net core 5 e docker\\projeto\\restwithaspnet\\03_restwithaspnet_person\\03_restwithaspnet_person.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6410D93-DACC-49F1-B130-6AF8DA8EA317}|03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj|solutionrelative:03_restwithaspnet_person\\03_restwithaspnet_person.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,72 +46,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Program.cs",
               "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Program.cs",
               "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Program.cs",
               "RelativeToolTip": "03_RestWithASPNET_Person\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:50:48.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T13:50:48.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPersonService.cs",
-              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Services\\IPersonService.cs",
-              "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Services\\IPersonService.cs",
-              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Services\\IPersonService.cs",
-              "RelativeToolTip": "03_RestWithASPNET_Person\\Services\\IPersonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:39:04.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Model\\Person.cs",
-              "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Model\\Person.cs",
-              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Model\\Person.cs",
-              "RelativeToolTip": "03_RestWithASPNET_Person\\Model\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:29:02.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Controllers\\PersonController.cs",
               "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Controllers\\PersonController.cs",
               "RelativeToolTip": "03_RestWithASPNET_Person\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:28:12.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Properties\\launchSettings.json",
-              "RelativeToolTip": "03_RestWithASPNET_Person\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-03T14:03:56.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T13:28:12.23Z"
             },
             {
               "$type": "Document",
@@ -109,10 +84,86 @@
               "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Services\\Implementations\\PersonServiceImplementation.cs",
               "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Services\\Implementations\\PersonServiceImplementation.cs",
               "RelativeToolTip": "03_RestWithASPNET_Person\\Services\\Implementations\\PersonServiceImplementation.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwCcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:42:54.469Z",
+              "WhenOpened": "2024-12-03T13:42:54.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\appsettings.json",
+              "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\appsettings.json",
+              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\appsettings.json",
+              "RelativeToolTip": "03_RestWithASPNET_Person\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T14:17:31.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Properties\\launchSettings.json",
+              "RelativeToolTip": "03_RestWithASPNET_Person\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T14:03:56.796Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Model\\Person.cs",
+              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Model\\Person.cs",
+              "RelativeToolTip": "03_RestWithASPNET_Person\\Model\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:29:02.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "03_RestWithASPNET_Person\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:12:29.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Services\\IPersonService.cs",
+              "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\Services\\IPersonService.cs",
+              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\Services\\IPersonService.cs",
+              "RelativeToolTip": "03_RestWithASPNET_Person\\Services\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:39:04.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "03_RestWithASPNET_Person.csproj",
+              "DocumentMoniker": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj",
+              "RelativeDocumentMoniker": "03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj",
+              "ToolTip": "C:\\workspace\\udemy\\REST API RestFull com ASP.NET CORE 5 e Docker\\Projeto\\RestWithASPNET\\03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj",
+              "RelativeToolTip": "03_RestWithASPNET_Person\\03_RestWithASPNET_Person.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T14:22:12.396Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

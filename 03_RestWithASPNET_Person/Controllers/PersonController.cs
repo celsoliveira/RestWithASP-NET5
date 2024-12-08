@@ -1,11 +1,13 @@
 using _02_RestWithASPNET.Model;
 using _02_RestWithASPNET.Services;
+using Asp.Versioning;
 using Microsoft.AspNetCore.Mvc;
 
 namespace _02_RestWithASPNET_Calculator.Controllers
 {
+    [ApiVersion("1")]
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/[controller]/v{version:apiVersion}")]
     public class PersonController : ControllerBase
     {
 
@@ -39,7 +41,7 @@ namespace _02_RestWithASPNET_Calculator.Controllers
         {
             if (person == null) return BadRequest();
 
-            return Ok(_personService.Update(person));
+            return Ok(_personService.Create(person));
         }
 
 
